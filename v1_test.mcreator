@@ -1,0 +1,51 @@
+{
+  "mod_elements": [
+    {
+      "name": "Craetive",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craetive"
+    },
+    {
+      "name": "Creative",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "creative"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "itemGroup.tabcreative": "Creative",
+      "item.v1_test.craetive": "I\u0027m so ugly"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "v1_test",
+    "modName": "2021.3 test",
+    "version": "1.0.0",
+    "author": "Mason951026",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.17.1",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.vtest",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100353117
+}
