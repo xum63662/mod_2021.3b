@@ -15,6 +15,14 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "creative"
+    },
+    {
+      "name": "Test",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "test"
     }
   ],
   "variable_elements": [],
@@ -22,6 +30,7 @@
   "language_map": {
     "en_us": {
       "itemGroup.tabcreative": "Creative",
+      "block.v1_test.test": "Test",
       "item.v1_test.craetive": "I\u0027m so ugly"
     }
   },
